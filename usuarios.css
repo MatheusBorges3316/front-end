@@ -27,10 +27,11 @@ tr:nth-child(even){
     background-color: rgb(226, 226, 226);
 }
 
-button{
-    width: 100%;
-    padding: 10px;
-    margin-top: 10px;
-    border-radius: 10px;
-    cursor: pointer;
+.botao-editar{
+    background-color: rgb(109, 172, 51);
+}
+
+.botao-excluir{
+    background-color: rgb(216, 113, 29);
+    color: white;
 }
